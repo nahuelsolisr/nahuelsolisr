@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi 👋! My name is Rodrigo Solis and I'm a Developer <br> from Argentina
+# 💫  Sobre mi - About me
+¡Hola 👋! Mi nombre es Rodrigo Solis y soy Desarrollador <br> 
+
+Hi 👋! My name is Rodrigo Solis and I'm a Developer <br>
 
 
 ## 🌐 Socials:
