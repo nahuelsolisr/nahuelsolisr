@@ -16,7 +16,7 @@
 
 ## Social
 
-Puedes seguirme en mi linkedin  [Linkedin](https://www.linkedin.com/in/rodrigo-solis-142815257/)
+Puedes seguirme en mi   [Linkedin](https://www.linkedin.com/in/rodrigo-solis-142815257/)
 
 
 
