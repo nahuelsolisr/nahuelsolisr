@@ -6,7 +6,7 @@
 - .NET
 -  C# 
 -  WinForms
--  SQL Server
+-  SQL Server (Microsoft Analysis Services & Integration Services)
 -  MySql
 -  ASP NET
 -  HTML5
