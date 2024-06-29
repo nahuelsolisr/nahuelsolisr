@@ -4,8 +4,10 @@
 
 ## Techs
 - .NET
--  C#
+-  C# 
+-  WinForms
 -  SQL Server
+-  MySql
 -  ASP NET
 -  HTML5
 -  CSS3
@@ -14,6 +16,10 @@
 -  React
 -  Bootstrap
 -  Figma
+-  Laravel
+-  PHP
+-  Angular
+-  WampServer
 
 ## Social
 
