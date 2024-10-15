@@ -6,19 +6,20 @@
 - .NET
 -  C# 
 -  WinForms
--  SQL Server (Microsoft Analysis Services & Integration Services)
+-  SQL Server
 -  MySql
--  ASP NET
 -  HTML5
--  CSS3
 -  JavaScript
--  Typescript
--  React
+-  CSS3
 -  Bootstrap
 -  Figma
+
+## Conocimientos basicos en 
+-  Typescript
+-  Angular
+-  React
 -  Laravel
 -  PHP
--  Angular
 -  WampServer
 
 
