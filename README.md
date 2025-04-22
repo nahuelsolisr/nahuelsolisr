@@ -12,15 +12,12 @@
 -  JavaScript
 -  CSS3
 -  Bootstrap
--  Figma
 
 ## Conocimientos basicos en 
 -  Typescript
 -  Angular
 -  React
 -  Laravel
--  PHP
--  WampServer
 
 
 
