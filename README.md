@@ -2,7 +2,7 @@
 
 # Hola👋, Bienvenido a mi perfil de GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Rodrigo+Solis...;Tengo+25+años...;Estudiante+avanzado+en+Sistemas..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=32&center=false&lines=Mi+nombre+es+Rodrigo+Solis...;Tengo+25+años...;Estudiante+avanzado+en+Sistemas..."/>
 
  <p>- <i>Soy un apasionado del desarrollo de software, siempre en busca de nuevos desafíos que me permitan aprender y mejorar, He trabajado en proyectos que van desde aplicaciones de escritorio hasta plataformas web. Me inspira formar parte de equipos donde el conocimiento se comparte</i></p>
 
