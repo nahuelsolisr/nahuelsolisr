@@ -17,13 +17,10 @@
 
 <hr>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarciaGabrielle&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarciaGabrielle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 <div>
 <div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=nahuelsolisr&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Solis github stats" /> 
+
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelsolisr&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
 <div>
