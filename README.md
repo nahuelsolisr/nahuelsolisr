@@ -6,7 +6,6 @@
 
  <p>- <i>Soy un apasionado del desarrollo de software, siempre en busca de nuevos desafíos que me permitan aprender y mejorar, He trabajado en proyectos que van desde aplicaciones de escritorio hasta plataformas web. Me inspira formar parte de equipos donde el conocimiento se comparte</i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre mi
 
