@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 # Hola👋, Bienvenido a mi perfil de GitHub
+#
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A030F0&size=27&center=false&lines=Mi+nombre+es+Rodrigo+Solis...;Tengo+25+años...;Estudiante+avanzado+en+Sistemas..."/>
 
