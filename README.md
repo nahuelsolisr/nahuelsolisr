@@ -3,7 +3,7 @@
 <img src="https://media1.tenor.com/m/003IuIgkFtsAAAAC/charmander-pokemon.gif" width="200" align="right" style="border-radius:50%"/>
 
 
-### Hola 👋 Soy Rodrigo Solis
+### Hola 👋 Soy Rodrigo 
 
 Soy un **estudiante avanzado en Análisis, Desarrollo y Programación de Aplicaciones** en el Instituto Superior de Formación Docente y Técnica 93 "Arturo Umberto Illia" a muy pocas materias de finalizar la carrera.  
 siempre estoy en busca de nuevos desafíos que me permitan aprender y mejorar.  
