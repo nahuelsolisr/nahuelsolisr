@@ -39,7 +39,6 @@ He trabajado en proyectos que van desde **aplicaciones de escritorio** hasta **p
 ![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=flat&logo=clickup&logoColor=7B68EE)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 ---
 
