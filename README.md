@@ -10,7 +10,6 @@ Soy **estudiante avanzado en Análisis, Desarrollo y Programación de Aplicacion
 Siempre estoy en busca de nuevos desafíos que me permitan aprender y mejorar.  
 He trabajado en proyectos que van desde **aplicaciones de escritorio** hasta **plataformas web**, explorando tanto el **Front-End** como el **Back-End**.
 
-- ⚡ **Dato curioso:** Ahora mismo me encuentro haciendo una pizza 🍕 
 - 🔭 Actualmente estoy estudiando y practicando:  
   - Desarrollo con **PHP y Laravel**  
   - **Bases de datos Mysql**  
