@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=nahuelsolisr)
+![](https://komarev.com/ghpvc/?username=nahuelsolisr&color=blue&style=flat)
+
+<img src="https://media1.tenor.com/m/003IuIgkFtsAAAAC/charmander-pokemon.gif" width="200" align="right"/>
 
 ### Hola 👋 Soy Rodrigo Solis
 
