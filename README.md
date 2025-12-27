@@ -5,17 +5,16 @@
 
 ### Hola 👋 Soy Rodrigo Solis
 
-Soy un **estudiante avanzado en Análisis, Desarrollo y Programación de Aplicaciones** en el Instituto Superior de Formación Docente y Técnica 93 "Arturo Umberto Illia".  
-Me apasiona el desarrollo de software y siempre estoy en busca de nuevos desafíos que me permitan aprender y mejorar.  
+Soy un **estudiante avanzado en Análisis, Desarrollo y Programación de Aplicaciones** en el Instituto Superior de Formación Docente y Técnica 93 "Arturo Umberto Illia" a muy pocas materias de finalizar la carrera.  
+siempre estoy en busca de nuevos desafíos que me permitan aprender y mejorar.  
 He trabajado en proyectos que van desde **aplicaciones de escritorio** hasta **plataformas web**, explorando tanto el **Front-End** como el **Back-End**.
 
-- ⚡ **Dato curioso:** Creo que el aprendizaje constante es la clave para crecer en tecnología y en la vida.  
+- ⚡ **Dato curioso:** Ahora mismo me encuentro haciendo una pizza 🍕 
 - 🔭 Actualmente estoy estudiando y practicando:  
-  - Desarrollo con **.NET y C#**  
-  - **Bases de datos SQL Server**  
-  - **ASP.NET** para aplicaciones web  
-- 💡 Me interesa todo lo relacionado con **desarrollo full stack, diseño de interfaces y optimización de sistemas**.  
-- 💬 Hablemos de tecnología, ciencia, filosofía o cualquier tema que despierte curiosidad.  
+  - Desarrollo con **PHP y Laravel**  
+  - **Bases de datos Mysql**  
+  - **React** para aplicaciones web  
+- 💡 Me interesa todo lo relacionado con **desarrollo full stack y diseño de interfaces**.  
 
 ---
 
@@ -36,6 +35,11 @@ He trabajado en proyectos que van desde **aplicaciones de escritorio** hasta **p
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)&nbsp;
+![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=flat&logo=clickup&logoColor=7B68EE)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 ---
 
