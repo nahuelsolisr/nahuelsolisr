@@ -54,7 +54,7 @@ He trabajado en proyectos que van desde **aplicaciones de escritorio** hasta **p
 ---
 
 <p align="center">
-   <i>"De lo invisible nace lo inmenso."</i>
+   <i>De lo invisible nace lo inmenso.</i>
    <br><br>
    <a target="_blank" href="https://www.linkedin.com/in/solisrodrigotech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
    <a target="_blank" href="mailto:solisrodrigo.tech@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
