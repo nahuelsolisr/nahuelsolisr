@@ -5,8 +5,8 @@
 
 ### Hola 👋 Soy Rodrigo 
 
-Soy **estudiante avanzado en Análisis, Desarrollo y Programación de Aplicaciones** en el [Instituto Superior de Formación Docente y Técnica 93 "Arturo Umberto Illia"](https://isfdyt93-bue.infd.edu.ar/sitio/).
- a muy pocas materias de finalizar la carrera.  
+Soy **estudiante  en Análisis, Desarrollo y Programación de Aplicaciones** en el [Instituto Superior de Formación Docente y Técnica 93 "Arturo Umberto Illia"](https://isfdyt93-bue.infd.edu.ar/sitio/).
+a muy pocas materias de finalizar la carrera.  
 Siempre estoy en busca de nuevos desafíos que me permitan aprender y mejorar.  
 He trabajado en proyectos que van desde **aplicaciones de escritorio** hasta **plataformas web**, explorando tanto el **Front-End** como el **Back-End**.
 
